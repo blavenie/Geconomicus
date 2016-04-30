@@ -26,7 +26,7 @@ Développement :
 Hébergement :
 
 * http://geconomicus.glibre.org
-* http://geconomicus.ucoin.fr
+* http://geconomicus.duniter.fr
 * http://vtexier.github.io/Geconomicus
 * http://galuel.github.io/Geconomicus
 
